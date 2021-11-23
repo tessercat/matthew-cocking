@@ -1,0 +1,27 @@
+      
+  
+CANADA 
+NATIONAL LIBRARY 
+“it |] BIBLIOTHEQUE NATIONALE      
+ 
+
+
+- Seovios TE, 1908, 
+  
+UL.   An Adventurer from Hudson Bay. 
+JovexaL. or MartHew Cockixe, From York Factory 10 THE 
+Bracxrenr Counrey, 1772-73. 
+Edited with Introduction and Notes by LAWRENCE J. BURPEE. 
+(Communicated by Dr. Wilfred Campbell and read May 26th, 1908.) 
+   
+      
+5
+[vnrse] AN ADVENTURER FROM HUDSON BAY 91 
+MATTHEW COCKING'S JOURNAL 
+DEING THE JOURNAL OF 4 JOURNEY €TRFORMED BY 
+COOKING, SECOND FSOTOR AT. YORK FORT, IN ORDER TO TAKE A VIEW OF 
+TRE INLAND COUNTRY, AND To PROMOTE TIE IIUDSON's Bay cosPANY’s 
+INTEREST, WHOSE TRADE 15 DIMINISHING BY THE CANADIANS YEARLY 
+INTEROEPTING NATIVES ON THath WAY TO THE SETTLEMENTS, 1772-1773. 
+  
+R. MATTHEW 
