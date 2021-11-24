@@ -1,0 +1,21 @@
+---
+title:
+- type: main
+  text: An Adventurer from Hudson Bay
+- type: subtitle
+  text: Journal of Matthew Cocking. From York Factory to the Blackfeet Country, 1772-73.
+- type: collection
+  text: National Library
+- type: extended
+  text: The Royal Society of Canada, 1908
+creator:
+- role: author
+  text: Matthew Cocking
+- role: editor
+  text: Lawrence J. Burpee
+- role: transcriber
+  text: Peter Christensen
+rights: © 2021 Peter Christensen CC BY-NC-SA 4.0
+ibooks:
+  version: 0.0.1
+...
