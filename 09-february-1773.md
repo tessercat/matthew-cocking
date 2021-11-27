@@ -2,7 +2,7 @@
 
 February 1. Monday. Sharp weather: lay bye.
 
-February 2. Tuesday. We proceeded: Our Course about N.b.E. and and distance 8 miles: Hommacks of Small shrubby woods: The Indians say this hill produces plenty of large spruce, & Birch, to the Westward of us.
+February 2. Tuesday. We proceeded: Our Course about N.b.E. and distance 8 miles: Hommacks of Small shrubby woods: The Indians say this hill produces plenty of large spruce, & Birch, to the Westward of us.
 
 February 3. Wednesday. We did not proceed. Two Asinepoet Natives joined us, they left their people 7 tents, this morning: They say Buffalo are very scarce; plenty of Waskesew but no Ammunition: I gave them a supply. A woman died.
 

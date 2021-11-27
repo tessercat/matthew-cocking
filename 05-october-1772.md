@@ -25,7 +25,7 @@ October 11 to 13. Sunday to Tuesday. We did not proceed: Busy building traps for
 October 14. Wednesday. This day an Indian Man, belonging to those who separated from us, was brought to my tent, having fallen from his Horse & broke his leg: I did & shall do all in my power to get him well again.
 
 October 15. Thursday. The Indians belonging to the lame man joined me.
- 
+
 October 16 to 19. Friday to Monday. The lame man doing well: Busy trapping: good success: several Smokes near us which we suppose are our Friends the Archithinue Natives:, The Natives shew me a tobacco plantation[^october-1772-2] belonging to the Archithinue Indians about 100 yards long & 5 wide, sheltered from the northern blasts by a Ledge of poplars; & to the Southward by a ridge of high ground.
 
 [^october-1772-2]: On Indian tobacco, see Hendry's Journal, note (R.S.C., 1907, II, 339).
