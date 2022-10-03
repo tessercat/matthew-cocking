@@ -1,1 +1,5 @@
+foreward.md
 *.epub
+*.pdf
+!OCR.pdf
+*.mobi
