@@ -16,7 +16,8 @@ nav#toc ol,
 nav#landmarks ol { padding: 0; margin-left: 1em; }
 nav#toc ol li,
 nav#landmarks ol li { list-style-type: none; margin: 0; padding: 0; }
-a.footnote-ref { vertical-align: super; }
+a.footnote-ref { vertical-align: super; font-size: x-small }
+a.footnote-back { font-size: small }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
 code{ white-space: pre-wrap; }
